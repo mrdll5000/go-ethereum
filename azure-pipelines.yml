@@ -8,5 +8,4 @@ pool:
 
 steps:
 - script: make all
-  displayName: 'Run a make script'
-
+  displayName: 'Run make script'
