@@ -9,7 +9,3 @@ pool:
 steps:
 - script: make all
   displayName: 'Run make script'
-
-- script: |
-    geth --rinkeby console
-  displayName: 'Run a geth script'
